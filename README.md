@@ -1,6 +1,6 @@
 ### Hey 👋,  I'm zzd
 
-[![Github](https://img.shields.io/github/followers/zhaozuodong?label=Follow&style=social)](https://github.com/zhaozuodong)
+[![Github](https://img.shields.io/github/followers/zhaozuodong?label=Follow&style=social)](https://github.com/zhaozuodong?tab=followers)
 
 - 🔭 I’m currently working on chanmama as Software Enginner
 - Check my 🖋 [Chinese blog](http://www.zzd.pub/)
